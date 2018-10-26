@@ -13,5 +13,5 @@
 # MySQL (Databse Server)
   MySQL is used as the database server....
 # How To Use Cedarbidder 
-    To use Cedarbidder is very easy as long as you have a moderately good internet which can give you access to the website.
+   To use Cedarbidder is very easy as long as you have a moderately good internet which can give you access to the website.
   
