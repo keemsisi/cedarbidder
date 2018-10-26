@@ -3,8 +3,8 @@ Cedarbidder the new web technology to solve a business bidding problem. In the w
 
 
 # Technologies Used
-  Front End : Angular
-  Server Side : Nodejs 
+    Front End : Angular
+    Server Side : Nodejs 
   
   # Vendor and the Admin Dashboard
     Admin LTE templates
@@ -13,5 +13,5 @@ Cedarbidder the new web technology to solve a business bidding problem. In the w
 # MySQL (Databse Server)
   MySQL is used as the database server....
 # How To Use Cedarbidder 
-  To use Cedarbidder is very easy as long as you have a moderately good internet which can give you access to the website.
+    To use Cedarbidder is very easy as long as you have a moderately good internet which can give you access to the website.
   
